@@ -19,3 +19,6 @@ npx cypress run --reporter mochawesome
 * Report can be found in the `cypress/results`
 
 * Videos can be found  in `cypress/videos`
+
+  ### Sample Report
+  ![alt text](https://github.com/dharmakrish6/todoapp-automation/blob/9873f6bffa3b11deb8381095df565a41ec2e80ba/cypress/results/test-reports.png)
